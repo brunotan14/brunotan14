@@ -1,12 +1,16 @@
-Markdown · README.md
+<div align="center">
 Olá, eu sou o Bruno Nathan 👋
-QA Engineer | SDET
-LinkedIn João Pessoa, PB Aberto a oportunidades
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E53935&center=true&vCenter=true&width=620&lines=QA+Engineer+%7C+SDET;Playwright+%2B+TypeScript;Testes+E2E+e+de+API+que+d%C3%A3o+sinal+de+verdade;Medir+antes+de+afirmar+%F0%9F%93%8F;IA+aplicada+a+testes+%F0%9F%A4%96" alt="QA Engineer | SDET" />
+
+<a href="https://www.linkedin.com/in/bruno-nathan-3626212b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://img.shields.io/badge/João_Pessoa-PB-E53935?style=for-the-badge" alt="João Pessoa, PB" /> <img src="https://img.shields.io/badge/Aberto_a-oportunidades-2EA44F?style=for-the-badge" alt="Aberto a oportunidades" />
+
+</div>
 
 Sou QA Engineer / SDET. Construo suítes de teste automatizadas que a equipe consegue usar de verdade: rápidas, estáveis e com relatórios que mostram o que quebrou e por quê.
 
 Minha regra de trabalho é medir antes de afirmar. Antes de escrever um teste, exploro a tela, olho a rede e anoto o que o produto faz de fato. Quando algo falha, vou atrás da causa raiz em vez de colocar um retry e seguir em frente.
 
+ts
 const bruno = {
   cargo: "QA Engineer | SDET",
   agora: "Engenheiro QA @ Media4all",
@@ -16,8 +20,10 @@ const bruno = {
   lema: "medir antes de afirmar",
 };
 💼 O que estou construindo agora
+
 Engenheiro QA na Media4all: suíte E2E de UI e API de um portal corporativo do setor de telecom, feita em Playwright + TypeScript.
 
+	
 🧪 Cobertura	152 casos automatizados para 26 requisitos funcionais em 5 serviços, além da integração com o portal
 ⚡ Desempenho	Massa de teste criada via API: de ~240s para ~91s em um requisito (-62%)
 🛡️ Estabilidade	Encontrei a causa raiz de crashes do Chromium (falta de memória no renderer) e resolvi isolando o navegador por spec
@@ -28,30 +34,36 @@ Engenheiro QA na Media4all: suíte E2E de UI e API de um portal corporativo do s
 🔎 Investigação	Mostrei com traces de rede que ~13 MB de miniaturas atrasavam a entrada no módulo em até 36s
 🤖 IA aplicada	Agentes e skills de Claude Code com Playwright MCP para explorar telas, medir e gerar testes no padrão da suíte
 🛠️ Stack
+
 Automação e testes
 
-Playwright Cypress Selenium Rest Assured JUnit Cucumber
+Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
 
 Linguagens
 
-TypeScript JavaScript Java
+Mostrar imagem Mostrar imagem Mostrar imagem
 
 API, mocks e relatórios
 
-Postman Newman OpenAPI WireMock Allure
+Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
 
 CI/CD e build
 
-GitHub Actions Bitbucket Maven
+Mostrar imagem Mostrar imagem Mostrar imagem
+
+Banco, containers e performance
+
+Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
 
 IA aplicada a QA
 
-Claude MCP n8n
+Mostrar imagem Mostrar imagem Mostrar imagem
 
 ♿ Em destaque: Rampa
+
 Auditor de acessibilidade web com IA, em português do Brasil. Você informa o endereço de um site, o Rampa percorre as páginas, roda o axe-core em cada uma e usa IA para avaliar o que a automação não pega sozinha: texto alternativo, propósito dos links, ordem de foco e hierarquia de títulos. Cada problema é ligado aos critérios da WCAG 2.2 e do eMAG.
 
-Status Elixir Phoenix React TypeScript Playwright PostgreSQL Docker License
+Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
 
 React ──HTTP/WS──▶ Phoenix ──Oban job──▶ scanner (Playwright + axe) ──▶ site auditado
                       ├──▶ API de IA (Claude)
@@ -68,13 +80,15 @@ Projeto	O que mostra
 🔗 Pipeline de testes com GitHub Actions	Testes rodando a cada push e pull request
 🔗 Mocks de API com WireMock	Testes independentes de serviços externos
 🔗 Testes de performance com Postman	Carga básica, tempo de resposta e estabilidade
+
 💡 Fora do QA, também desenvolvo projetos full stack com Next.js, TypeScript e Supabase.
 
 🌱 Explorando agora
-📈 Performance e observabilidade: k6, Grafana e Prometheus
-🐳 DevOps: Docker e pipelines de regressão (primeiro informativos, depois bloqueantes)
+📈 Performance e observabilidade: testes de carga com k6 enviando métricas ao Prometheus e exibidas em dashboards no Grafana
+🐳 DevOps: pipelines de regressão, primeiro informativos e depois bloqueantes
 🤖 Agentes de IA para QA: planner, generator e healer com Playwright Agents
 🤝 Vamos conversar?
+
 Topo trocar ideia sobre automação E2E, testes de API, testes instáveis (flaky) ou IA aplicada a QA. 📩 Me chama no LinkedIn.
 
-visitas
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=brunotan14&color=E53935&style=flat-square&label=visitas+ao+perfil" alt="visitas" /> </div>
